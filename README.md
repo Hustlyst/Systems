@@ -20,6 +20,7 @@ They are made for people in sales, marketing, customer success, operations, and 
 | :-- | :-- | :-- |
 | [Deal X-ray](deal-x-ray/) | Sales | Checks each deal against MEDDPICC using what the buyer actually said, names the gap most likely to kill it, and gives the question for your next call |
 | [Renewal Radar](renewal-radar/) | Customer success | Ranks every renewal in the window by expected dollars lost and days to opt-out, compares with last month and learns which signals came before your losses. Built on CS Pulse's renewal-risk skill |
+| [Customer Language](customer-language/) | Marketing | Builds a bank of your customers' exact words, scores your copy against it and rewrites it so every line traces back to real customers. Learns from your tests which message wins |
 
 ## Three ways to use each one
 
