@@ -22,6 +22,7 @@ They are made for people in sales, marketing, customer success, operations, and 
 | [Renewal Radar](renewal-radar/) | Customer success | Ranks every renewal in the window by expected dollars lost and days to opt-out, compares with last month and learns which signals came before your losses. Built on CS Pulse's renewal-risk skill |
 | [Customer Language](customer-language/) | Marketing | Builds a bank of your customers' exact words, scores your copy against it and rewrites it so every line traces back to real customers. Learns from your tests which message wins |
 | [Hours Audit](hours-audit/) | Operations | Finds the request types eating your team's hours, with the AI labelling and your spreadsheet counting, ranks fixes by hours saved per unit of effort, and checks next month whether each fix worked |
+| [Value Pricing](value-pricing/) | Freelancers and consultants | Turns discovery notes into a value case from the client's own numbers, builds three options priced as a share of that value, never below your floor, and learns the share you actually win at |
 
 ## Three ways to use each one
 
